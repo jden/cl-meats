@@ -207,7 +207,7 @@ class CLMeats(object):
 
     # say "gif" for empty message
     if text_to_speak == '':
-      text_to_speak = "jiff"
+      text_to_speak = "gif"
 
     return text_to_speak
 
